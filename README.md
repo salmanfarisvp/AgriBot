@@ -1,6 +1,6 @@
 # Welcome to Our Bot Project
 
-![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/images.png)
+<img src="https://github.com/salmanfarisvp/AgriBot/blob/master/images.png" alt="logo" class="inline"/>
 
 We are BCA final year Students from Jamia Nadiya Arts & Science College.  
 
@@ -24,17 +24,16 @@ Today, we are Introducing a Personal  Assistant, yeah a complete Personal Assist
 
 ### AgriBot
 
-![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/bot.PNG)
+<img src="https://github.com/salmanfarisvp/AgriBot/blob/master/bot.PNG" alt="chatbot" class="inline"/>
+
 
 ###Arduino MKR-1000
 
-![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/MKR1000-Pinout-.png)
+<img src="https://github.com/salmanfarisvp/AgriBot/blob/master/MKR1000-Pinout-.png" alt="mkr1000" class="inline"/>
 
 ###NodeMCU
 
-![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/nodemcu_pins.png)
-
-<img src="https://github.com/salmanfarisvp/AgriBot/blob/master/nodemcu_pins.png" alt="hi" class="inline"/>
+<img src="https://github.com/salmanfarisvp/AgriBot/blob/master/nodemcu_pins.png" alt="nodemcu" class="inline"/>
 
 
 ##We Will Update More details , So Stay Tuned  :-D 
