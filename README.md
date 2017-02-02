@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Our Bot Project
+## Safvan CU, Irshad PC , SAlman Faris 
 
-You can use the [editor on GitHub](https://github.com/salmanfarisvp/AgriBot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are BCA final year Student's from jamia Nadwiya Arts & Scinece College . 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Everyday technologies is incersing like moor's law, AI,BigaData.... etc , All are growing Second by second .
+Today, we are Intrdosing an Peronsola Assinat , yeah a complete Personal Assiant **AgriBot**
 
 ### Markdown
 
