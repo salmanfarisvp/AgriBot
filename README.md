@@ -1,40 +1,41 @@
 # Welcome to Our Bot Project
-## Safvan CU, Irshad PC , SAlman Faris 
 
-We are BCA final year Student's from jamia Nadwiya Arts & Scinece College . 
+![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/images.png)
+
+We are BCA final year Students from Jamia Nadiya Arts & Science College.  
 
 
-Everyday technologies is incersing like moor's law, AI,BigaData.... etc , All are growing Second by second .
-Today, we are Intrdosing an Peronsola Assinat , yeah a complete Personal Assiant **AgriBot**
+Every day technologies are increasing, AI, BigaData.... etc, All are growing Second by second.
+Today, we are Introducing a Personal  Assistant, yeah a complete Personal Assistant **AgriBot*
 
-### Markdown
+## Our Team
+ - Safvan C U
+ - Irshad 
+ - Salman Faris
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technologies we used
 
-```markdown
-Syntax highlighted code block
+ - Telegram Bot 
+ - Arduino Microcontroller
+ - Android App
+ - NodeMCU Wi-Fi chip
+ - Sensor's
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### AgriBot
 
-1. Numbered
-2. List
+![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/bot.PNG)
 
-**Bold** and _Italic_ and `Code` text
+###Arduino MKR-1000
 
-[Link](url) and ![Image](src)
-```
+![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/MKR1000-Pinout-.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###NodeMCU
 
-### Jekyll Themes
+![Image](https://github.com/salmanfarisvp/AgriBot/blob/master/nodemcu_pins.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salmanfarisvp/AgriBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+##We Will Update More details , So Stay Tuned  :-D 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
