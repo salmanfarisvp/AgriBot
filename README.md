@@ -8,10 +8,6 @@ We are BCA final year Students from Jamia Nadiya Arts & Science College.
 Every day technologies are increasing, AI, BigaData.... etc, All are growing Second by second.
 Today, we are Introducing a Personal  Assistant, yeah a complete Personal Assistant **AgriBot*
 
-## Our Team
- - Safvan C U
- - Irshad 
- - Salman Faris
 
 ## Technologies we used
 
