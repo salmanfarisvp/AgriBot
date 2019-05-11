@@ -21,9 +21,9 @@ char pass[] = "salfarhome4";            // your network key
 DHT dht(DHTPIN, DHTTYPE); //// Initialize DHT sensor for normal 16mhz Arduino
 
 // Initialize Telegram BOT 
-const char* BotToken = "293480684:AAGDDwRfPF0bB-FfA780aiN-Q1ZLXCTSNJc";    // your Bot Teken 
+const char* BotToken = "token";    // your Bot Teken 
 const char* BotName = "Agribot";     // your Bot Name 
-const char* BotUsername = "FoxLab_bot"; // your Bot User Name 
+const char* BotUsername = "bot user name"; // your Bot User Name 
 
 int chk;
 String hum;  //Stores humidity value
